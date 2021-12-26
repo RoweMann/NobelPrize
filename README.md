@@ -5,4 +5,4 @@ _well……just kidding_
   Chemistry Expriment
 </h2>
   
-ZIF-67 glugose detection
+ZIF-67 Glugose Detection
